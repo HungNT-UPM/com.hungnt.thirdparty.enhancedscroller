@@ -1,7 +1,7 @@
 {
   "name": "com.hungnt.thirdparty.enhancedscroller",
   "version": "2.38.0",
-  "displayName": "Enhanced Scroller",
+  "displayName": "HungNT 3rd-party: Enhanced Scroller",
   "description": "Wrapper free cho EnhancedScroller (echo17). Chi tiet xem README.",
   "unity": "2021.1",
   "documentationUrl": "https://assetstore.unity.com/packages/tools/gui/enhancedscroller-36378",

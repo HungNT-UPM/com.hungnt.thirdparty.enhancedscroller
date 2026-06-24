@@ -1,16 +1,17 @@
-# Enhanced Scroller
+# HungNT 3rd-party: Enhanced Scroller
 
-Wrapper free cho **Enhanced Scroller v2.38.0** (echo17).
-Asset gốc: https://assetstore.unity.com/packages/tools/gui/enhancedscroller-36378
+Asset gốc: [Enhanced Scroller (echo17)](https://assetstore.unity.com/packages/tools/gui/enhancedscroller-36378)
 
 ## Cài đặt
 
 Thêm vào `Packages/manifest.json`:
 
 ```json
-"com.hungnt.thirdparty.enhancedscroller": "https://github.com/HungNT-UPM/com.hungnt.thirdparty.enhancedscroller.git#2.38.0"
+"com.hungnt.thirdparty.enhancedscroller": "https://github.com/HungNT-UPM/com.hungnt.thirdparty.enhancedscroller.git"
 ```
 
-Hoặc Package Manager → **Add package from git URL** → `https://github.com/HungNT-UPM/com.hungnt.thirdparty.enhancedscroller.git` (thêm `#2.38.0` để pin version).
+Hoặc Package Manager → **Add package from git URL** → `https://github.com/HungNT-UPM/com.hungnt.thirdparty.enhancedscroller.git`
 
-API namespace: `EnhancedScrollerUI` (giữ nguyên API asset gốc).
+## Note
+
+API namespace: `EnhancedScrollerUI` — giữ nguyên API asset gốc, tutorial/code của echo17 chạy drop-in.
