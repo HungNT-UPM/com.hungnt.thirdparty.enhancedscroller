@@ -1,6 +1,6 @@
-# com.hungnt.thirdparty.enhancedscroller
+# Enhanced Scroller
 
-Wrapper free cho **EnhancedScroller v2.38.0** (echo17).
+Wrapper free cho **Enhanced Scroller v2.38.0** (echo17).
 Asset gốc: https://assetstore.unity.com/packages/tools/gui/enhancedscroller-36378
 
 ## Cài đặt
